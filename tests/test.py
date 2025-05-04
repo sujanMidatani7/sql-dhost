@@ -1,4 +1,4 @@
-from dhost import PSQLUtil 
+from sql_dhost.dhost import PSQLUtil 
 import os
 
 DB_CONNECTION_STRING = os.getenv("DB_URL")  
