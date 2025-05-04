@@ -24,7 +24,11 @@ uv init
 uv venv
 uv add -r requirements.txt
 ```
+OR
 
+```bash
+uv add sql-dhost #or pip install sql-dhost
+```
 ---
 
 ## 🛠️ Usage
