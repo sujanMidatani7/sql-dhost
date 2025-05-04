@@ -36,7 +36,7 @@ uv add sql-dhost #or pip install sql-dhost
 ### 1. **Basic Setup**
 
 ```python
-from dhost import PSQLUtil
+from sql_dhost import PSQLUtil
 
 # PostgreSQL connection string
 conn_str = "db_connection_string"
